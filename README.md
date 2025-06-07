@@ -1,4 +1,4 @@
-# 🚛 roadrraft save editor
+# 🚛 roadcraft save editor
 
 RoadCraft save editor is a modern save file editor for RoadCraft, the infrastructure construction and logistics simulation game by Saber Interactive. Built with PyQt6, this tool allows you to modify your game progress, unlock vehicles and maps, and manage in-game resources.
 
