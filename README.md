@@ -1,6 +1,6 @@
-# 🚛 RoadCraft Save Editor
+# 🚛 roadrraft save editor
 
-RoadCraft Save Editor is a modern save file editor for RoadCraft, the infrastructure construction and logistics simulation game by Saber Interactive. Built with PyQt6, this tool allows you to modify your game progress, unlock vehicles and maps, and manage in-game resources.
+RoadCraft save editor is a modern save file editor for RoadCraft, the infrastructure construction and logistics simulation game by Saber Interactive. Built with PyQt6, this tool allows you to modify your game progress, unlock vehicles and maps, and manage in-game resources.
 
 ![RoadCraft Save Editor](screenshot/1.png)
 ![RoadCraft Save Editor](screenshot/2.png)
@@ -38,9 +38,8 @@ RoadCraft Save Editor is a modern save file editor for RoadCraft, the infrastruc
 
 ### Option 1: Download Release
 1. Go to the [Releases](https://github.com/YourUsername/RoadCraft-Save-Editor/releases) page
-2. Download the latest version for your platform
-3. Extract the zip file
-4. Run `RoadCraft SaveEditor.exe`
+2. Extract the zip file
+3. Run `RoadCraft SaveEditor.exe`
 
 ### Option 2: Run from Source
 
