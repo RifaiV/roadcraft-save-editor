@@ -24,6 +24,8 @@ LEVELS_KNOWN = [
     ("rb_map_04_salt_mines", "Salt Mines"),
     ("rb_map_05_dam_break", "Dam Break"),
     ("rb_map_06_sinkholes", "Sinkholes"),
+    ("rb_map_07_rail_failure", "Contamination"),
+    ("rb_map_08_contamination", "Washout"),
     ("rb_map_09_sand_storm", "Sand Storm"),
     ("rb_map_10_geothermal", "Geothermal"),
 ]
