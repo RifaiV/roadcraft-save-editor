@@ -26,6 +26,8 @@ RoadCraft save editor is a modern save file editor for RoadCraft, the infrastruc
   - Salt Mines
   - Dam Break
   - Sinkholes
+  - Contamination
+  - Washout
   - Sand Storm
   - Geothermal
 - Edit level-specific resources (logs, steel beams, concrete slabs, steel pipes)
